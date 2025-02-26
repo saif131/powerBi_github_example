@@ -1,4 +1,4 @@
-# Power BI GitHub Example
+# Sales of Adidas
 
 This repository contains an example of how to integrate Power BI with GitHub data. The Power BI file (`.pbix`) included in this repository demonstrates how to visualize and analyze GitHub repository data.
 
